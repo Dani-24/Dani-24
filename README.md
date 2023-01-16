@@ -6,6 +6,8 @@ Hi I'm Dani & I don't like programming.
   <img src="https://media.giphy.com/media/xUOxeSmFd00VhzqHQY/giphy.gif" width="300"/>
 </div>
 
+<a href=#><img src="contributions.svg"></a>
+
 ---
 
 Now look at those informative boxes I found them cooler than the rest of my profile:
