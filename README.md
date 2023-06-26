@@ -1,6 +1,6 @@
 ### :8ball: About Me
 
-Hi I'm Dani & I don't like programming.
+Hi I'm Dani & I don't like programming. Nah just joking.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xUOxeSmFd00VhzqHQY/giphy.gif" width="300"/>
@@ -11,7 +11,6 @@ Hi I'm Dani & I don't like programming.
 ---
 
 Now look at those informative boxes I found them cooler than the rest of my profile:
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dani-24&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dani-24" /></p>
 
