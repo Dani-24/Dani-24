@@ -1,6 +1,6 @@
 ### :8ball: About Me
 
-Hi I'm Dani & I don't like programming. Nah just joking.
+Hi I'm Dani & I don't like programming ( ඞ ).
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xUOxeSmFd00VhzqHQY/giphy.gif" width="300"/>
