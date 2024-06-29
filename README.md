@@ -1,8 +1,7 @@
 ### :8ball: About Me
 
 <div id="header" align="left">
-Hi I'm Dani & I don't like programming.
-  <img src="https://media.giphy.com/media/xUOxeSmFd00VhzqHQY/giphy.gif" width="10%"/>
+Hi I'm Dani, a student learning mostly about videogame programming.
 </div>
 
 ---
