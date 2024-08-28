@@ -22,6 +22,7 @@ Hi! I'm Dani.
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://academyclass.com/wp-content/uploads/2021/10/ACCL-Unreal-Engine-1200x1200.png" alt="unreal" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="40" height="40"/> </a>
   
 </p>
   
