@@ -1,7 +1,13 @@
 ### :8ball: About Me
 
 <div id="header" align="left">
-Hi I'm Dani, a student learning mostly about videogame programming.
+  
+Hi! I'm Dani.
+
+- Learning mostly about videogame programming.
+
+- Here you can check all the repositories of projects I have worked on.
+
 </div>
 
 ---
@@ -11,17 +17,17 @@ Hi I'm Dani, a student learning mostly about videogame programming.
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" alt="unreal" width="40" height="40"/> </a> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" alt="unity" width="40" height="40"/> </a> 
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://academyclass.com/wp-content/uploads/2021/10/ACCL-Unreal-Engine-1200x1200.png" alt="unreal" width="40" height="40"/> </a> 
   
 </p>
   
 ---
 
-### GitHub Stats:
+### GitHub Stats (They look cool):
 
 <table><tr><td valign="top" width="36%">
 
@@ -43,5 +49,5 @@ Hi I'm Dani, a student learning mostly about videogame programming.
  
 <a href=#><img src="contributions.svg"></a>
 
-Thanks for watching!
+Have a nice day!
 </div>
