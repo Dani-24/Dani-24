@@ -6,6 +6,8 @@ Hi! I'm Dani.
 
 - Learning mostly about videogame programming.
 
+- Currently studying Web Development
+
 - Here you can check all the repositories of projects I have worked on.
 
 </div>
