@@ -2,47 +2,51 @@
 
 <div id="header" align="left">
   
-Hi! I'm Dani.
-
-- Learning mostly about videogame programming.
-
-- Currently studying Web Development
-
-- Here you can check all the repositories of projects I have worked on.
+  Hi! I'm Dani
+  
+  - ️🖥️ Fullstack Web Development Student
+  
+  - 🎮 Game Developer in my free time
+  
+  - 🚬 2D artist in my dreams
+  
+  - 👀 Here you can take a look at all the repositories of projects I have worked on
 
 </div>
 
 ---
   
 ### Tools that I use:
-<p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://academyclass.com/wp-content/uploads/2021/10/ACCL-Unreal-Engine-1200x1200.png" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="40" height="40"/> </a>
-  
-</p>
-  
+
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+  <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" title="Photoshop"/></code>
+  <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender" title="Blender"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>  
+  <code><img width="50" src="https://academyclass.com/wp-content/uploads/2021/10/ACCL-Unreal-Engine-1200x1200.png" alt="Unreal" title="Unreal"/></code>
+</div>
+
 ---
 
 ### GitHub Stats (They look cool):
 
 <table><tr><td valign="top" width="36%">
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dani-24&theme=dark" alt="dani-24"/></div>
-
-</td><td valign="top" width="36%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dani-24&show_icons=true&theme=tokyonight&locale=en"/></div>
-
-</td><td valign="top" width="27%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani-24&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></div>
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dani-24&theme=dark" alt="dani-24"/></div>
+  
+  </td><td valign="top" width="36%">
+  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dani-24&show_icons=true&theme=tokyonight&locale=en"/></div>
+  
+  </td><td valign="top" width="27%">
+  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani-24&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></div>
 
 </td></tr></table>  
 
@@ -50,7 +54,7 @@ Hi! I'm Dani.
 
 <div id="header" align="center">
  
-<a href=#><img src="contributions.svg"></a>
-
-Have a nice day!
+  <a href=#><img src="contributions.svg"></a>
+  
+  Have a nice day!
 </div>
