@@ -2,15 +2,7 @@
 
 <div id="header" align="left">
   
-  Hi! I'm Dani
-  
-  - ️🖥️ Fullstack Web Development Student
-  
-  - 🎮 Game Developer in my free time
-  
-  - 🚬 2D artist in my dreams
-  
-  - 👀 Here you can take a look at all the repositories of projects I have worked on
+  Hi! I'm Dani, a FullStack Web Developer and Videogame entusiast.
 
 </div>
 
